@@ -1,0 +1,4 @@
+sys_timer.c:9:17:sys_rand	0	static
+sys_timer.c:14:17:sys_get_tick_ms	8	static
+sys_timer.c:21:10:sys_now	8	static
+sys_timer.c:29:10:sys_jiffies	8	static

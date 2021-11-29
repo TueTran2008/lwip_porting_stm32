@@ -1,0 +1,17 @@
+ipcp.c:746:12:ipcp_cilen	0	static
+ipcp.c:664:13:ipcp_close	8	static
+ipcp.c:654:13:ipcp_open	8	static
+ipcp.c:682:13:ipcp_lowerdown	8	static
+ipcp.c:702:13:ipcp_protrej	8	static
+ipcp.c:673:13:ipcp_lowerup	8	static
+ipcp.c:691:13:ipcp_input	8	static
+ipcp.c:592:13:ipcp_init	16	static
+ipcp.c:2209:13:ipcp_finished	8	static
+ipcp.c:2118:13:ipcp_down	16	static
+ipcp.c:1341:12:ipcp_rejci	72	static
+ipcp.c:921:12:ipcp_ackci	24	static
+ipcp.c:806:13:ipcp_addci	24	static
+ipcp.c:1076:12:ipcp_nakci	136	static
+ipcp.c:712:13:ipcp_resetci	12	static
+ipcp.c:1506:12:ipcp_reqci	64	static
+ipcp.c:1885:13:ipcp_up	24	static

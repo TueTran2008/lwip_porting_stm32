@@ -1,0 +1,13 @@
+gsm_utilities.c:20:6:gsm_utilities_get_imei	32	static
+gsm_utilities.c:42:6:gsm_utilities_get_sim_ccid	32	static
+gsm_utilities.c:83:6:gsm_utilities_process_cusd_message	16	static
+gsm_utilities.c:146:6:gsm_utilities_get_network_operator	40	static
+gsm_utilities.c:214:9:gsm_utilities_parse_httpread_msg	56	static
+gsm_utilities.c:285:10:gsm_utilities_get_number_from_string	16	static
+gsm_utilities.c:7:6:gsm_utilities_get_signal_strength_from_buffer	8	static
+gsm_utilities.c:103:6:gsm_utilities_get_network_access_tech	40	static
+gsm_utilities.c:186:6:gsm_utilities_parse_http_action_response	16	static
+gsm_utilities.c:309:9:find_index_of_char	16	static
+gsm_utilities.c:327:6:gsm_utilities_copy_parameters	32	static
+gsm_utilities.c:448:6:gsm_utilities_parse_file_handle	8	static
+gsm_utilities.c:460:6:gsm_utilities_get_qfile_content	16	static

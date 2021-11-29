@@ -1,0 +1,5 @@
+magic.c:222:6:magic_init	8	static
+magic.c:239:6:magic_randomize	8	static
+magic.c:263:7:magic	8	static
+magic.c:274:6:magic_random_bytes	24	static
+magic.c:290:7:magic_pow	8	static

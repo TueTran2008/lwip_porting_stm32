@@ -1,0 +1,5 @@
+vj.c:48:1:vj_compress_init	0	static
+vj.c:160:1:vj_compress_tcp	80	static
+vj.c:448:1:vj_uncompress_err	0	static
+vj.c:459:1:vj_uncompress_uncomp	24	static
+vj.c:497:1:vj_uncompress_tcp	56	static

@@ -1,0 +1,9 @@
+mqtt_client.c:168:13:mqtt_pub_request_cb	8	static
+mqtt_client.c:269:13:mqtt_dns_found	16	static
+mqtt_client.c:131:13:mqtt_client_connection_callback	32	static
+mqtt_client.c:34:13:mqtt_sub_request_cb	16	static
+mqtt_client.c:95:13:mqtt_incoming_data_cb	24	static,ignoring_inline_asm
+mqtt_client.c:79:13:mqtt_incoming_publish_cb	24	static
+mqtt_client.c:295:6:mqtt_client_polling_task	72	static
+mqtt_client.c:439:6:mqtt_client_is_connected_to_broker	0	static
+mqtt_client.c:447:6:mqtt_client_initialize	8	static

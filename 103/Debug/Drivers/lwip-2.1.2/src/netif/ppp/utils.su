@@ -1,0 +1,12 @@
+utils.c:87:8:ppp_strlcpy	24	static
+utils.c:105:8:ppp_strlcat	24	static
+utils.c:135:5:ppp_vslprintf	104	static
+utils.c:120:5:ppp_slprintf	16	static
+utils.c:605:13:ppp_logit	264	static
+utils.c:572:6:ppp_print_string	40	static
+utils.c:633:6:ppp_fatal	16	static
+utils.c:646:6:ppp_error	16	static
+utils.c:660:6:ppp_warn	16	static
+utils.c:671:6:ppp_notice	16	static
+utils.c:682:6:ppp_info	16	static
+utils.c:693:6:ppp_dbglog	16	static

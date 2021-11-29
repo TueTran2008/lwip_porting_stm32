@@ -1,0 +1,10 @@
+auth.c:548:6:link_required	0	static
+auth.c:620:6:link_terminated	8	static
+auth.c:716:6:upper_layers_down	24	static
+auth.c:698:6:link_down	8	static
+auth.c:971:6:continue_networks	16	static
+auth.c:917:6:start_networks	8	static
+auth.c:734:6:link_established	16	static
+auth.c:1198:6:np_up	8	static
+auth.c:1249:6:np_down	8	static
+auth.c:1268:6:np_finished	8	static
